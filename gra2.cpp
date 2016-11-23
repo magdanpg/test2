@@ -1,3 +1,5 @@
+//zmiany w master
+
 void GameLevel::init(std::vector<std::vector<GLuint>> tileData, GLuint lvlWidth, GLuint lvlHeight)
 {
     // Calculate dimensions
