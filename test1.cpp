@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
- 
+ //sortowanie
 void sortowanie_przez_wstawianie(int n, int *tab)
 {
      int pom, j;
