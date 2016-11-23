@@ -1,5 +1,6 @@
-#include<iostream>
+﻿#include<iostream>
 using namespace std;
+//coscos
  
 void sortowanie_przez_wstawianie(int n, int *tab)
 {
