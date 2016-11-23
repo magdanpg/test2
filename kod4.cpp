@@ -1,6 +1,6 @@
-#include<iostream>
+﻿#include<iostream>
 #include<cstdlib>
-//syufgwuifkjbnerg
+//syufgwuifkjbnerghtfhjr
 using namespace std;
  
 void sortowanie_babelkowe(int tab[],int n)
