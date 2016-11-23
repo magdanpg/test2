@@ -1,4 +1,4 @@
-
+zmianyzmianyzmiany
 void Game::ProcessInput(GLfloat dt)
 {
     if (this->State == GAME_ACTIVE)
